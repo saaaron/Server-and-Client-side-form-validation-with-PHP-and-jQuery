@@ -122,6 +122,9 @@
 			</div>
 			<div class="col-lg-1 col-xl-1 col-xxl-1"></div>
 		</div>
+		<div class="text-center p-2">
+			<p>&copy; 2023 Built by <a href="https://saaaron.github.io/" target="_blank"><b>Sa Aaron</b></a>
+		</div>
 	</div>
 	<script src="js/bootstrap.min.js"></script>
 	<script src="js/jquery-3.7.0.min.js" type="text/javascript" charset="utf-8" async defer></script>
