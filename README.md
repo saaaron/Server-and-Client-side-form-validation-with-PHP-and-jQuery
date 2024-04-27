@@ -1,7 +1,7 @@
 # Server-and-Client-side-form-validation-with-PHP-and-jQuery
 
 ## Author
-- [@SaAaron6](https://twitter.com/SaAaron6)
+- [Sa Aaron](https://saaaron.github.io/)
 
 ## Screenshot
 [image](https://i.ibb.co/Sc7vwWV/Screenshot-5.png)
