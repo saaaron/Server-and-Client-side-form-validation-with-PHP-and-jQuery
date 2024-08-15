@@ -1,4 +1,5 @@
-# Server-and-Client-side-form-validation-with-PHP-and-jQuery
+# Signup form validation
+A Server and Client-side form validation built with PHP and jQuery
 
 ## Author
 - [Sa Aaron](https://saaaron.github.io/)
